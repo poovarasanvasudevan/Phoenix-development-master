@@ -1,0 +1,314 @@
+2016-01-23 11:32:21[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 11:32:34[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 12:07:27[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 12:08:59[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 12:34:15[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 12:46:16[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 12:46:26[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 12:46:45[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 12:47:24[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 12:49:33[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 12:50:35[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 12:51:28[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 12:55:38[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 13:05:47[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 13:07:39[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 13:13:59[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 13:14:18[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 13:14:28[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 13:14:45[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 13:15:02[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 13:15:05[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 13:15:07[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 13:15:10[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 13:16:02[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 13:16:25[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 14:27:37[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-23 14:37:09[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-28 17:40:31[WARN] user: poovarasanv
+/masters/currency?_pjax=%5Bdata-pjax-container%5D
+N+1 Query detected
+  Currency => [:regions]
+  Add to your finder: :includes => [:regions]
+N+1 Query method call stack
+
+2016-01-28 17:40:34[WARN] user: poovarasanv
+/masters/currency?model_name=currency&sort=active&_pjax=%5Bdata-pjax-container%5D
+N+1 Query detected
+  Currency => [:regions]
+  Add to your finder: :includes => [:regions]
+N+1 Query method call stack
+
+2016-01-28 17:40:35[WARN] user: poovarasanv
+/masters/currency?model_name=currency&sort=active&sort_reverse=true&_pjax=%5Bdata-pjax-container%5D
+N+1 Query detected
+  Currency => [:regions]
+  Add to your finder: :includes => [:regions]
+N+1 Query method call stack
+
+2016-01-28 17:40:43[WARN] user: poovarasanv
+/masters/currency?_pjax=%5Bdata-pjax-container%5D
+N+1 Query detected
+  Currency => [:regions]
+  Add to your finder: :includes => [:regions]
+N+1 Query method call stack
+
+2016-01-28 17:41:02[WARN] user: poovarasanv
+/masters/city?_pjax=%5Bdata-pjax-container%5D
+N+1 Query detected
+  City => [:business_entities]
+  Add to your finder: :includes => [:business_entities]
+N+1 Query method call stack
+
+2016-01-28 17:41:02[WARN] user: poovarasanv
+/masters/city?_pjax=%5Bdata-pjax-container%5D
+N+1 Query detected
+  City => [:users]
+  Add to your finder: :includes => [:users]
+N+1 Query method call stack
+
+2016-01-28 17:41:24[WARN] user: poovarasanv
+/masters/user/73/edit?_pjax=%5Bdata-pjax-container%5D
+Unused Eager Loading detected
+  City => [:state, :zone]
+  Remove from your finder: :includes => [:state, :zone]
+
+2016-01-28 17:41:32[WARN] user: poovarasanv
+/masters/user/new?_pjax=%5Bdata-pjax-container%5D
+Unused Eager Loading detected
+  City => [:state, :zone]
+  Remove from your finder: :includes => [:state, :zone]
+
+2016-01-28 17:42:44[WARN] user: poovarasanv
+/masters/user/new
+Unused Eager Loading detected
+  City => [:state, :zone]
+  Remove from your finder: :includes => [:state, :zone]
+
+2016-01-28 17:43:02[WARN] user: poovarasanv
+/masters/user/new?_pjax=%5Bdata-pjax-container%5D
+Unused Eager Loading detected
+  City => [:state, :zone]
+  Remove from your finder: :includes => [:state, :zone]
+
+2016-01-28 17:43:26[WARN] user: poovarasanv
+/masters/user/new
+Unused Eager Loading detected
+  City => [:state, :zone]
+  Remove from your finder: :includes => [:state, :zone]
+
+2016-01-28 17:44:09[WARN] user: poovarasanv
+/masters/user/74/edit?_pjax=%5Bdata-pjax-container%5D
+Unused Eager Loading detected
+  City => [:state, :zone]
+  Remove from your finder: :includes => [:state, :zone]
+
+2016-01-28 17:44:39[WARN] user: poovarasanv
+/masters/currency?_pjax=%5Bdata-pjax-container%5D
+N+1 Query detected
+  Currency => [:regions]
+  Add to your finder: :includes => [:regions]
+N+1 Query method call stack
+
+2016-01-28 17:44:45[WARN] user: poovarasanv
+/masters/currency?_pjax=%5Bdata-pjax-container%5D
+N+1 Query detected
+  Currency => [:regions]
+  Add to your finder: :includes => [:regions]
+N+1 Query method call stack
+
+2016-02-01 11:47:10[WARN] user: poovarasanv
+/inventory-in-vouchers
+N+1 Query detected
+  BusinessEntityLocation => [:business_entity]
+  Add to your finder: :includes => [:business_entity]
+N+1 Query method call stack
+  D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/models/inventory_txn.rb:62:in `set_primary_entity_based_on_location'
+  D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/controllers/inventory_in_vouchers_controller.rb:43:in `block in create'
+  D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/controllers/inventory_in_vouchers_controller.rb:42:in `create'
+
+D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/models/inventory_txn.rb:62:in `set_primary_entity_based_on_location'
+D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/controllers/inventory_in_vouchers_controller.rb:43:in `block in create'
+D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/controllers/inventory_in_vouchers_controller.rb:42:in `create'2016-02-01 11:47:23[WARN] user: poovarasanv
+/inventory-in-vouchers
+N+1 Query detected
+  BusinessEntityLocation => [:business_entity]
+  Add to your finder: :includes => [:business_entity]
+N+1 Query method call stack
+  D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/models/inventory_txn.rb:62:in `set_primary_entity_based_on_location'
+  D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/controllers/inventory_in_vouchers_controller.rb:43:in `block in create'
+  D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/controllers/inventory_in_vouchers_controller.rb:42:in `create'
+
+D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/models/inventory_txn.rb:62:in `set_primary_entity_based_on_location'
+D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/controllers/inventory_in_vouchers_controller.rb:43:in `block in create'
+D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/controllers/inventory_in_vouchers_controller.rb:42:in `create'2016-02-01 11:47:23[WARN] user: poovarasanv
+/inventory-in-vouchers
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-02-01 12:03:18[WARN] user: poovarasanv
+/inventory-internal-transfer-vouchers
+N+1 Query detected
+  BusinessEntityLocation => [:business_entity]
+  Add to your finder: :includes => [:business_entity]
+N+1 Query method call stack
+  D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/models/inventory_txn.rb:62:in `set_primary_entity_based_on_location'
+  D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/controllers/inventory_internal_transfer_vouchers_controller.rb:49:in `block in create'
+  D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/controllers/inventory_internal_transfer_vouchers_controller.rb:48:in `create'
+
+D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/models/inventory_txn.rb:62:in `set_primary_entity_based_on_location'
+D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/controllers/inventory_internal_transfer_vouchers_controller.rb:49:in `block in create'
+D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/controllers/inventory_internal_transfer_vouchers_controller.rb:48:in `create'2016-02-01 12:03:32[WARN] user: poovarasanv
+/inventory-internal-transfer-vouchers
+N+1 Query detected
+  BusinessEntityLocation => [:business_entity]
+  Add to your finder: :includes => [:business_entity]
+N+1 Query method call stack
+  D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/models/inventory_txn.rb:62:in `set_primary_entity_based_on_location'
+  D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/controllers/inventory_internal_transfer_vouchers_controller.rb:49:in `block in create'
+  D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/controllers/inventory_internal_transfer_vouchers_controller.rb:48:in `create'
+
+D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/models/inventory_txn.rb:62:in `set_primary_entity_based_on_location'
+D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/controllers/inventory_internal_transfer_vouchers_controller.rb:49:in `block in create'
+D:/ROR/MyPhoenix/Phoenix-Master-Altered-master/app/controllers/inventory_internal_transfer_vouchers_controller.rb:48:in `create'2016-02-01 12:03:32[WARN] user: poovarasanv
+/inventory-internal-transfer-vouchers
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
